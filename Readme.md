@@ -1,0 +1,1 @@
+`cd asyncTest` or `cd factorialTest` and run `npm install` for installing dependencies and run `npm run test` for testing!
